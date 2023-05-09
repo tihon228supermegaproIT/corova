@@ -42,7 +42,7 @@ body{
 }
 
 .header {
-    position: absolute;
+
     width: 465px;
     height: 210px;
     left: 245px;
@@ -56,7 +56,7 @@ body{
 }
 
 .header-subtitle {
-    position: absolute;
+
     width: 423px;
     height: 50px;
     left: 245px;
@@ -72,7 +72,7 @@ body{
 .header-button {
     box-sizing: border-box;
     
-    position: absolute;
+    
     width: 219px;
     height: 69px;
     left: 245px;
